@@ -325,7 +325,7 @@ This laboratory is for **education only**.
 Cybersecurity at NetworkWalks, Batch B084
 
 LinkedIn: https://www.linkedin.com/in/temitope-akanbi-749363442/
-GitHub: {{your GitHub link}}
+GitHub: https://github.com/09060655278
 
 ---
 
